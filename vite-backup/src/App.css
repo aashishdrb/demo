@@ -1,0 +1,4 @@
+/* Clean App.css to avoid conflicts with global index.css rules */
+.main-content {
+  flex-grow: 1;
+}
